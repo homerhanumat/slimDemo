@@ -1,0 +1,3 @@
+[submodule "themes/themes/hugo-theme-slim"]
+	path = themes/themes/hugo-theme-slim
+	url = https://github.com/homerhanumat/hugo-theme-slim.git
