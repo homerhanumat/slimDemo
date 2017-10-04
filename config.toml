@@ -11,7 +11,7 @@ relativeurls = true
 [Params]
   math = false
   summary = true
-  disqusShortname = ""
+  disqusShortname = "slim-theme-demo"
   
   # social
   GithubID = "homerhanumat"
