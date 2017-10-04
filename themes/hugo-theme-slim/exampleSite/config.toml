@@ -1,5 +1,5 @@
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-relativeurls = true
+relativeurls = false
 theme = "hugo-theme-slim"
 baseURL = "http://example.org/"
 languageCode = "en-us"
