@@ -1,7 +1,7 @@
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-relativeurls = false
+relativeurls = true
 theme = "hugo-theme-slim"
-baseURL = "https://slimdemo.netlify.com/"
+baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Slim Theme Demo"
 
@@ -11,12 +11,12 @@ title = "Slim Theme Demo"
 [Params]
   math = false
   summary = true
-  disqusShortname = "slim-theme-demo"
+  disqusShortname = ""
   
   # social
-  GithubID = "homerhanumat"
-  TwitterID = "homerhanumat"
-  LinkedInID = "homerwhite"
+  GithubID = ""
+  TwitterID = ""
+  LinkedInID = ""
   
 [[menu.main]]
   name = "About"
