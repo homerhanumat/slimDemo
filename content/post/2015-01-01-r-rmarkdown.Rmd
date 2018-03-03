@@ -14,7 +14,7 @@ slug: "sample-r-markdown"
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -26,13 +26,13 @@ fit <- lm(dist ~ speed, data = cars)
 fit
 ```
 
-# Writing Math
+## Writing Math
 
 In the YAML front matter, set `math:  true` and you'll get MathJax to render your math.  Inline math, such as the formula $A=2\pi r^2$ for the area of a circle, is easy, as is displayed math:
 
 $$\sum_{k=1}^{\infty}\frac{1}{k^2} = \frac{\pi^2}{6}.$$
 
-# Including Plots
+## Including Plots
 
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 
@@ -45,3 +45,12 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+## Tables
+
+Try using `knitr::kable()`:
+
+```{r}
+knitr::kable(mtcars[, 1:3])
+```
+
