@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Slim Theme Demo</title>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Plot</title>
+      <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 01 Jan 2015 21:13:14 -0500</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Regression</title>
+      <title>regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 01 Jan 2015 21:13:14 -0500</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>Ssss</title>
+      <title>ssss</title>
       <link>/tags/ssss/</link>
       <pubDate>Wed, 23 Mar 2011 00:00:00 +0000</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Vvvvv</title>
+      <title>vvvvv</title>
       <link>/tags/vvvvv/</link>
       <pubDate>Wed, 23 Mar 2011 00:00:00 +0000</pubDate>
       
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>Xxx</title>
+      <title>xxx</title>
       <link>/tags/xxx/</link>
       <pubDate>Wed, 23 Mar 2011 00:00:00 +0000</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>Yyy</title>
+      <title>yyy</title>
       <link>/tags/yyy/</link>
       <pubDate>Wed, 23 Mar 2011 00:00:00 +0000</pubDate>
       
